@@ -2,11 +2,14 @@
 
 ## Must-Haves
 
-> these are necessary for basic usability
+- A TextArea for user to add words 
+- Add button for user to click to add word to the list
+- Remove button to remove items from the list 
+- A sorted fild with sorted options to sort items according to their categories
 
 ## Should-Haves
 
-> these will complete the user experience, but are not necessary
+- should be able to keep a history of words removed 
 
 ## Could-Haves
 
